@@ -1,8 +1,10 @@
-Title:Ms
-full name:samaira meenaz
-usn:1gc24ai040
-semester:third
-section:c
-branch:artificial engineering
-year of admission:2025
-college name:ghousia college of engineering
+Title: Ms
+Full Name: Samaira Meenaz
+USN: 1GC24AI040
+Semester: Third
+Section: C
+Subject Name: Project Management with GIT
+Subject Code: BCS358C
+Academic Year: 2025-26
+Mobile No: 9900522210
+Email ID:samaira.gce@gmail.com
