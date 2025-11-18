@@ -1,10 +1,10 @@
-Title:Ms
-Full name:samaira meenaz
-USN:1gc24ai040
-Semester:third
-Section:c
-Subject:Project Management with GIT
-Subject code:BCS358c
-Acedemic year:2025-26
-Mobile no:9900990099
+Title: Ms
+Full Name: Samaira Meenaz
+USN: 1GC24AI040
+Semester: Third
+Section: C
+Subject Name: Project Management with GIT
+Subject Code: BCS358C
+Academic Year: 2025-26
+Mobile No: 9900522210
 Email ID:samaira.gce@gmail.com
